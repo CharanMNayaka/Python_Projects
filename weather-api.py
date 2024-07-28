@@ -5,7 +5,7 @@ import json
 import win32com.client
 import win32com.client
 
-api_key = "9e9620c1f8b0433ba2a142509242707"
+api_key = ""
 
 def speak(text):
     
